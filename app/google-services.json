@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "333634320119",
+    "firebase_url": "https://rtakb-934b1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rtakb-934b1",
+    "storage_bucket": "rtakb-934b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333634320119:android:54cfd8b7ebb7aaf8f2c5f2",
+        "android_client_info": {
+          "package_name": "com.tubes.tugasbesarakb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333634320119-h105lf1knh1e09grqoeqpna1073f3aua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP_qkWI4OlsLS0cYqeCsnEwu0p773Fo34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333634320119-h105lf1knh1e09grqoeqpna1073f3aua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
